@@ -20,6 +20,11 @@ header {
     align-items: center;
 }
 
+.icon {
+    list-style: none;
+    text-decoration: none;
+}
+
 /*
 #llama {
     display: flex;
